@@ -16,3 +16,8 @@ code Obsidian
 Enter a message then click Commit.
 ![[Pasted image 20240830194510.png]]
 
+![[Pasted image 20240830194826.png]]
+
+This will push changes to github.
+
+Then on your other laptop open code in the same way and sync the changes.  This will pull your changes to the new device.
