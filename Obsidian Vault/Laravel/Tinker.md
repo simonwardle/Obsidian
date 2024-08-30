@@ -19,4 +19,4 @@ To make it easier to run setup an alias for this command in the .bashrc.
 alias tinker='rlwrap php artisan tinker'
 ```
 
-Then to run just enter tinker.
+Then to run just enter tinker and it should just work.
