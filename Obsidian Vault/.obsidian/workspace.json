@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e362d32bb887ff40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Syncing Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Tinker.md",
+                "file": "Obsidian/Syncing Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Tinker.md",
+                "file": "Obsidian/Syncing Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Tinker.md"
+                "file": "Obsidian/Syncing Obsidian.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5fd6e78476324eb",
+  "active": "e362d32bb887ff40",
   "lastOpenFiles": [
+    "Pasted image 20240830194510.png",
+    "Sqlite/TablePlus.md",
+    "Obsidian/Syncing Obsidian.md",
+    "Laravel/Tinker.md",
+    "Obsidian",
     "Laravel/Install Laravel/Install Laravel.md"
   ]
 }
