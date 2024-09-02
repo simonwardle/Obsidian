@@ -1,4 +1,4 @@
-There is a paid for option but it is about $5 a month so for the amount I use it just not work it.
+There is a paid for option for syncing but it is about $5 a month. So at the amount I will use Git.
 
 I tried to just put the vault in google drive but I just couldn't read the files via obsidian.
 
@@ -22,5 +22,5 @@ This will push changes to github.
 
 Then on your other laptop open code in the same way and sync the changes.  This will pull your changes to the new device.
 
-![[Pasted image 20240830202645.png]]
+
 
