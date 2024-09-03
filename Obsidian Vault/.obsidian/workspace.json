@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Syntax.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "debug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Syntax.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Syntax.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Syntax.md"
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md"
               }
             }
           }
@@ -173,13 +173,22 @@
   },
   "active": "c596f065c9178be2",
   "lastOpenFiles": [
+    "00 Meta/Attachments/Pasted image 20240903195252.png",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md",
+    "00 Meta/Attachments/Pasted image 20240903200701.png",
+    "00 Meta/Attachments/Pasted image 20240903200445.png",
+    "00 Meta/Attachments/Pasted image 20240903200351.png",
+    "00 Meta/Attachments/Pasted image 20240903200248.png",
+    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
+    "Programming/Youtube/Laracasts",
+    "Obsidian/Syncing Obsidian.md",
+    "General Syntax.md",
     "00 Meta/Attachments/Pasted image 20240902194242.png",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
-    "General Syntax.md",
     "Laravel/Artisan",
     "Laravel/Tinker.md",
     "Laravel/Using Git with Laravel.md",
-    "Obsidian/Syncing Obsidian.md",
     "Pasted image 20240830202645.png",
     "VSCode/VSCode.md",
     "00 Meta/Attachments/Pasted image 20240830194826.png",
