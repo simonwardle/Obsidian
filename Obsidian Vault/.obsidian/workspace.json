@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Pagination.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Pagination.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Pagination.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Pagination.md"
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md"
               }
             }
           }
@@ -183,31 +183,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5a2c76187b0cdfc",
+  "active": "544b5b3aa600cde5",
   "lastOpenFiles": [
+    "Laravel/Tinker.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+    "00 Meta/Attachments/Pasted image 20240905155737.png",
+    "00 Meta/Attachments/Pasted image 20240905155429.png",
+    "00 Meta/Attachments/Pasted image 20240905155358.png",
+    "00 Meta/Attachments/Pasted image 20240905154632.png",
+    "00 Meta/Attachments/Pasted image 20240905154301.png",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
+    "00 Meta/Attachments/Pasted image 20240905151810.png",
+    "00 Meta/Attachments/Pasted image 20240905152840.png",
     "00 Meta/Attachments/Pasted image 20240904180049.png",
     "00 Meta/Attachments/Pasted image 20240904180003.png",
     "00 Meta/Attachments/Pasted image 20240904175908.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Eager Loading.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/Pagination.md",
     "Obsidian/Syncing Obsidian.md",
-    "00 Meta/Attachments/Pasted image 20240903195252.png",
-    "00 Meta/Attachments/Pasted image 20240903200701.png",
-    "00 Meta/Attachments/Pasted image 20240903200445.png",
-    "00 Meta/Attachments/Pasted image 20240903200351.png",
-    "00 Meta/Attachments/Pasted image 20240903200248.png",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",
     "General Syntax.md",
-    "00 Meta/Attachments/Pasted image 20240902194242.png",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
     "Laravel/Artisan",
-    "Laravel/Tinker.md",
     "Laravel/Using Git with Laravel.md",
-    "Pasted image 20240830202645.png",
     "VSCode/VSCode.md",
-    "00 Meta/Attachments/Pasted image 20240830194826.png",
     "Sqlite/TablePlus.md",
     "Obsidian",
     "Laravel/Install Laravel/Install Laravel.md"
