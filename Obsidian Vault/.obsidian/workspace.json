@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5fd6e78476324eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Tinker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e362d32bb887ff40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c596f065c9178be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "544b5b3aa600cde5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6aec1054df74965a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/VSCode.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/VSCode.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/VSCode.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/VSCode.md"
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md"
               }
             }
           }
@@ -198,13 +149,14 @@
   "active": "6aec1054df74965a",
   "lastOpenFiles": [
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
+    "VSCode/VSCode.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
+    "Laravel/Tinker.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
     "General Syntax.md",
     "Laravel/Install Laravel/Install Laravel.md",
-    "Laravel/Tinker.md",
     "00 Meta/Attachments/Pasted image 20240905155737.png",
     "00 Meta/Attachments/Pasted image 20240905155429.png",
     "00 Meta/Attachments/Pasted image 20240905155358.png",
@@ -222,7 +174,6 @@
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
     "Laravel/Artisan",
     "Laravel/Using Git with Laravel.md",
-    "VSCode/VSCode.md",
     "Sqlite/TablePlus.md",
     "Obsidian"
   ]

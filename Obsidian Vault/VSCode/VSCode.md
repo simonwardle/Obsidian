@@ -2,6 +2,7 @@
 ## Useful shortcuts
 To open a file - ctrl p and start typing the name.
 To go to a specific line - ctrl g and enter line number. 
+Format entire document ==Shift+Ctrl+i==
 
 ## HTML Boilerplate
 To create a very basic HTML file enter html:5 and hit tab.
@@ -12,3 +13,4 @@ Set the menu item **Selection** > **Switch to Ctrl+Click for Multi-Cursor** or *
 To edit in multiple positions all at the same time press Ctrl and then click the edit points.
 
 If you want alter every occurrence of a word, just select it and then hit Ctrl+Shift+L and it will create multiple cursors for you on that word.
+

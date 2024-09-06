@@ -20,3 +20,7 @@ alias tinker='rlwrap php artisan tinker'
 ```
 
 Then to run just enter tinker and it should just work.
+
+Mainly used to run factories.
+
+App\Models\Job::factory(10)->create();  would create 10 jobs in the DB
