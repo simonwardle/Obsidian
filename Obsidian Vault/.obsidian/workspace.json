@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+                "file": "General Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aec1054df74965a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSCode/VSCode.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+                "file": "VSCode/VSCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+                "file": "VSCode/VSCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md"
+                "file": "VSCode/VSCode.md"
               }
             }
           }
@@ -183,17 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "544b5b3aa600cde5",
+  "active": "6aec1054df74965a",
   "lastOpenFiles": [
-    "Laravel/Tinker.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
+    "General Syntax.md",
+    "Laravel/Install Laravel/Install Laravel.md",
+    "Laravel/Tinker.md",
     "00 Meta/Attachments/Pasted image 20240905155737.png",
     "00 Meta/Attachments/Pasted image 20240905155429.png",
     "00 Meta/Attachments/Pasted image 20240905155358.png",
     "00 Meta/Attachments/Pasted image 20240905154632.png",
     "00 Meta/Attachments/Pasted image 20240905154301.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
     "00 Meta/Attachments/Pasted image 20240905151810.png",
     "00 Meta/Attachments/Pasted image 20240905152840.png",
     "00 Meta/Attachments/Pasted image 20240904180049.png",
@@ -203,13 +219,11 @@
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",
-    "General Syntax.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
     "Laravel/Artisan",
     "Laravel/Using Git with Laravel.md",
     "VSCode/VSCode.md",
     "Sqlite/TablePlus.md",
-    "Obsidian",
-    "Laravel/Install Laravel/Install Laravel.md"
+    "Obsidian"
   ]
 }

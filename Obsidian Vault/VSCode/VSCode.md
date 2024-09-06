@@ -7,4 +7,8 @@ To go to a specific line - ctrl g and enter line number.
 To create a very basic HTML file enter html:5 and hit tab.
 
 ## Multiple Cursors
-To edit in multiple positions all at the same time press Alt and then click the edit points.
+Set the menu item **Selection** > **Switch to Ctrl+Click for Multi-Cursor** or **Selection** > **Switch to Alt+Click for Multi-Cursor** to quickly toggle this setting to Ctrl as Alt doesn't appear to work all the time.
+
+To edit in multiple positions all at the same time press Ctrl and then click the edit points.
+
+If you want alter every occurrence of a word, just select it and then hit Ctrl+Shift+L and it will create multiple cursors for you on that word.
