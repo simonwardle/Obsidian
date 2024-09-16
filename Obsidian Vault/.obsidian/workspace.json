@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md"
+                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   "active": "6aec1054df74965a",
   "lastOpenFiles": [
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
-    "00 Meta/Attachments/Pasted image 20240909202831.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
-    "00 Meta/Attachments/Pasted image 20240909203447.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
+    "00 Meta/Attachments/Pasted image 20240909202831.png",
+    "00 Meta/Attachments/Pasted image 20240909203447.png",
     "00 Meta/Attachments/Pasted image 20240909203134.png",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Layouts and Templates.md",
