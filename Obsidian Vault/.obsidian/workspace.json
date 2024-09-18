@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
+                "file": "Laravel/XAMPP/Uninstall xampp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
+                "file": "Laravel/XAMPP/Uninstall xampp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
+                "file": "Laravel/XAMPP/Uninstall xampp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md"
+                "file": "Laravel/XAMPP/Uninstall xampp.md"
               }
             }
           }
@@ -148,6 +148,19 @@
   },
   "active": "6aec1054df74965a",
   "lastOpenFiles": [
+    "Laravel/XAMPP/Install xampp.md",
+    "Laravel/Install Laravel/Install Laravel.md",
+    "Laravel/General Syntax.md",
+    "Laravel/Tinker.md",
+    "Laravel/Using Git with Laravel.md",
+    "VSCode/VSCode.md",
+    "00 Meta/Attachments/Pasted image 20240918155614.png",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
+    "00 Meta/Attachments/Pasted image 20240918164828.png",
+    "00 Meta/Attachments/Pasted image 20240918164421.png",
+    "00 Meta/Attachments/Pasted image 20240918164009.png",
+    "00 Meta/Attachments/Pasted image 20240918155752.png",
+    "00 Meta/Attachments/Pasted image 20240918155655.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/17. Validation.md",
@@ -157,27 +170,16 @@
     "00 Meta/Attachments/Pasted image 20240917142347.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
-    "00 Meta/Attachments/Pasted image 20240909202831.png",
-    "00 Meta/Attachments/Pasted image 20240909203447.png",
-    "00 Meta/Attachments/Pasted image 20240909203134.png",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Layouts and Templates.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Create a new project.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Check installation.md",
-    "00 Meta/Attachments/Pasted image 20240909185705.png",
-    "00 Meta/Attachments/Pasted image 20240909190601.png",
-    "00 Meta/Attachments/Pasted image 20240909185943.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
-    "VSCode/VSCode.md",
-    "Laravel/Tinker.md",
-    "General Syntax.md",
-    "Laravel/Install Laravel/Install Laravel.md",
     "Obsidian/Syncing Obsidian.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",
     "Laravel/Artisan",
-    "Laravel/Using Git with Laravel.md",
     "Sqlite/TablePlus.md",
     "Obsidian"
   ]
