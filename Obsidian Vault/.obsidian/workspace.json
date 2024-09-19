@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/XAMPP/Uninstall xampp.md",
+                "file": "Obsidian/Syncing Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b0b61d7b42449bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node/Installing node.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/XAMPP/Uninstall xampp.md",
+                "file": "Node/Installing node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/XAMPP/Uninstall xampp.md",
+                "file": "Node/Installing node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/XAMPP/Uninstall xampp.md"
+                "file": "Node/Installing node.md"
               }
             }
           }
@@ -146,11 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aec1054df74965a",
+  "active": "a5a2c76187b0cdfc",
   "lastOpenFiles": [
-    "Laravel/XAMPP/Install xampp.md",
+    "Obsidian/Syncing Obsidian.md",
+    "Node/Installing node.md",
+    "Node",
+    "Linux/Ubuntu/Login scripts.md",
+    "Linux/Ubuntu/Printer Driver.md",
+    "Linux/Ubuntu/Ubuntu.md",
     "Laravel/Install Laravel/Install Laravel.md",
+    "Laravel/XAMPP/Install xampp.md",
     "Laravel/General Syntax.md",
+    "Laravel/XAMPP/Uninstall xampp.md",
     "Laravel/Tinker.md",
     "Laravel/Using Git with Laravel.md",
     "VSCode/VSCode.md",
@@ -176,7 +196,6 @@
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Create a new project.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Check installation.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
-    "Obsidian/Syncing Obsidian.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",
     "Laravel/Artisan",
