@@ -8,6 +8,11 @@ node -v
 
 You should get the version number or a message saying it is not installed.
 
+==I went through all the steps below and it installed a very old version of node so I ended up removing it and installing with NVM (node version manager).==
+See
+[[Installing NVM]]
+
+
 To install 
 
 ```
