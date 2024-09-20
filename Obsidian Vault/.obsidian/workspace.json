@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Syncing Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b0b61d7b42449bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
+                "file": "Linux/Ubuntu/External Monitors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
+                "file": "Linux/Ubuntu/External Monitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
+                "file": "Linux/Ubuntu/External Monitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md"
+                "file": "Linux/Ubuntu/External Monitors.md"
               }
             }
           }
@@ -159,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b0b61d7b42449bc",
+  "active": "6aec1054df74965a",
   "lastOpenFiles": [
+    "00 Meta/Attachments/Pasted image 20240920110835.png",
     "Node/Installing node.md",
-    "Node/Installing NVM.md",
-    "Linux/Ubuntu/Ubuntu.md",
-    "Linux/Ubuntu/Printer Driver.md",
+    "Pasted image 20240920112153.png",
     "Obsidian/Syncing Obsidian.md",
+    "Linux/Ubuntu/External Monitors.md",
+    "00 Meta/Attachments/Pasted image 20240920110653.png",
+    "00 Meta/Attachments/Pasted image 20240920110528.png",
+    "Linux/Ubuntu/Ubuntu.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
+    "Node/Installing NVM.md",
+    "Linux/Ubuntu/Printer Driver.md",
     "Node",
     "Linux/Ubuntu/Login scripts.md",
     "Laravel/Install Laravel/Install Laravel.md",
@@ -176,19 +170,13 @@
     "Laravel/Using Git with Laravel.md",
     "VSCode/VSCode.md",
     "00 Meta/Attachments/Pasted image 20240918155614.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
     "00 Meta/Attachments/Pasted image 20240918164828.png",
     "00 Meta/Attachments/Pasted image 20240918164421.png",
     "00 Meta/Attachments/Pasted image 20240918164009.png",
     "00 Meta/Attachments/Pasted image 20240918155752.png",
     "00 Meta/Attachments/Pasted image 20240918155655.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/17. Validation.md",
-    "00 Meta/Attachments/Pasted image 20240917141536.png",
-    "00 Meta/Attachments/Pasted image 20240917152342.png",
-    "00 Meta/Attachments/Pasted image 20240917150700.png",
-    "00 Meta/Attachments/Pasted image 20240917142347.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
@@ -196,11 +184,9 @@
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Create a new project.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Check installation.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",
     "Laravel/Artisan",
-    "Sqlite/TablePlus.md",
     "Obsidian"
   ]
 }
