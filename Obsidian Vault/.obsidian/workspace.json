@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Ubuntu/External Monitors.md",
+                "file": "Linux/Ubuntu/Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Ubuntu/External Monitors.md",
+                "file": "Linux/Ubuntu/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Ubuntu/External Monitors.md",
+                "file": "Linux/Ubuntu/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Ubuntu/External Monitors.md"
+                "file": "Linux/Ubuntu/Ubuntu.md"
               }
             }
           }
@@ -148,16 +148,30 @@
   },
   "active": "6aec1054df74965a",
   "lastOpenFiles": [
-    "00 Meta/Attachments/Pasted image 20240920110835.png",
-    "Node/Installing node.md",
-    "Pasted image 20240920112153.png",
-    "Obsidian/Syncing Obsidian.md",
-    "Linux/Ubuntu/External Monitors.md",
-    "00 Meta/Attachments/Pasted image 20240920110653.png",
-    "00 Meta/Attachments/Pasted image 20240920110528.png",
-    "Linux/Ubuntu/Ubuntu.md",
+    "Pasted image 20240923192821.png",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/17. Validation.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/22. Login & Registration.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/23. Authorisation.md",
+    "00 Meta/Attachments/Pasted image 20240923163900.png",
+    "00 Meta/Attachments/Pasted image 20240923183118.png",
+    "00 Meta/Attachments/Pasted image 20240923182922.png",
+    "00 Meta/Attachments/Pasted image 20240923182401.png",
+    "00 Meta/Attachments/Pasted image 20240923182211.png",
+    "00 Meta/Attachments/Pasted image 20240923182109.png",
+    "00 Meta/Attachments/Pasted image 20240923181928.png",
+    "Pasted image 20240923181854.png",
+    "00 Meta/Attachments/Pasted image 20240923110115.png",
+    "00 Meta/Attachments/Pasted image 20240923152020.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
+    "Linux/Ubuntu/External Monitors.md",
+    "Node/Installing node.md",
+    "Obsidian/Syncing Obsidian.md",
+    "Linux/Ubuntu/Ubuntu.md",
     "Node/Installing NVM.md",
     "Linux/Ubuntu/Printer Driver.md",
     "Node",
@@ -169,21 +183,8 @@
     "Laravel/Tinker.md",
     "Laravel/Using Git with Laravel.md",
     "VSCode/VSCode.md",
-    "00 Meta/Attachments/Pasted image 20240918155614.png",
-    "00 Meta/Attachments/Pasted image 20240918164828.png",
-    "00 Meta/Attachments/Pasted image 20240918164421.png",
-    "00 Meta/Attachments/Pasted image 20240918164009.png",
-    "00 Meta/Attachments/Pasted image 20240918155752.png",
-    "00 Meta/Attachments/Pasted image 20240918155655.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/17. Validation.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Layouts and Templates.md",
-    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
-    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Create a new project.md",
-    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Check installation.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",
     "Laravel/Artisan",

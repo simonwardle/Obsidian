@@ -20,3 +20,13 @@ sudo dpkg -i epson-inkjet-printer-escpr_1.7.26-1lsb3.2_amd64.deb
 Finally connect the printer and try it.
 
 This worked on my surface book and my ThinkPad P50
+
+## Dock 
+
+To move the start button from the right side to the left try this.
+
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock show-apps-at-top true
+```
+
+![[Pasted image 20240923192821.png]]
