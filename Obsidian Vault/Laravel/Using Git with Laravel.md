@@ -1,6 +1,6 @@
 #laravel 
 
-If you clone a Git repos follow these steps.
+If you clone a Git repository follow these steps.
 
 Open the folder in VScode and then run..
 
@@ -14,7 +14,7 @@ php artisan migrate
 
 The above will install all the Laravel packages.
 The .env file is not in source control.  (need to look at encrypting it)
-The database will not exist this will make it.
+The database will not exist the above will make it.
 
 Finally run...
 ```
