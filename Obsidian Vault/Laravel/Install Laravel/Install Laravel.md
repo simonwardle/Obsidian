@@ -1,4 +1,4 @@
-#laravel 
+#laravel #xampp
 
 To run Laravel you first need to install php and apache see XAMPP
 

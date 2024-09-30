@@ -1,3 +1,4 @@
+#laravel 
 
 PHP artisan is very powerful to create a simple model named Tag but with a basic factory and DB migration in place..
 
