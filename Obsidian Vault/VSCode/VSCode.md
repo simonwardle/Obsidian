@@ -5,7 +5,7 @@ To go to a specific line - ==ctrl g== and enter line number.
 Format entire document ==Shift+Ctrl+i==
 
 ## HTML Boilerplate
-To create a very basic HTML file enter html:5 and hit tab.
+To create a very basic HTML5 file enter html:5 and hit tab.
 
 ## Multiple Cursors
 Set the menu item **Selection** > **Switch to Ctrl+Click for Multi-Cursor** or **Selection** > **Switch to Alt+Click for Multi-Cursor** to quickly toggle this setting to Ctrl as Alt doesn't appear to work all the time.
