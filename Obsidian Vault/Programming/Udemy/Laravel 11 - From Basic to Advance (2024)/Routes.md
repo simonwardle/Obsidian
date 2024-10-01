@@ -83,3 +83,15 @@ Then to use the named route it is as easy as this..
 ```
 
 In the above blade layout file we are using echo statements {{  }} notice the function route() accepts an array.
+
+## Route Groups
+
+It is possible to create a group of routes like this...
+![[Pasted image 20241001145132.png]]
+
+It is possible to extend the groups further like this...
+![[Pasted image 20241001150251.png]]
+The above will inject the word blog. into the name of each route so create will become blog.create.  The url is also extended to become /blog/create.
+
+
+
