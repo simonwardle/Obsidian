@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/Routes.md",
+                "file": "VSCode/VSCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/Routes.md",
+                "file": "VSCode/VSCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/Routes.md",
+                "file": "VSCode/VSCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/Routes.md"
+                "file": "VSCode/VSCode.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aec1054df74965a",
+  "active": "a5a2c76187b0cdfc",
   "lastOpenFiles": [
-    "Pasted image 20241001150251.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/Routes.md",
-    "Pasted image 20241001145132.png",
+    "00 Meta/Attachments/Pasted image 20241001150251.png",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
+    "00 Meta/Attachments/Pasted image 20241001145132.png",
     "00 Meta/Attachments/Pasted image 20240930170435.png",
     "00 Meta/Attachments/Pasted image 20240930143956.png",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Layouts and Templates.md",
@@ -171,7 +171,6 @@
     "00 Meta/Attachments/Pasted image 20240927165051.png",
     "00 Meta/Attachments/Pasted image 20240927164804.png",
     "00 Meta/Attachments/Pasted image 20240927164550.png",
-    "00 Meta/Attachments/Pasted image 20240926145708.png",
     "Laravel/Using Git with Laravel.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
