@@ -11,8 +11,12 @@
             "id": "56f3397e08dab194",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#php",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git & GitHub/Git & Github.md",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Git & GitHub/Git & Github.md",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Git & GitHub/Git & Github.md"
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md"
               }
             }
           }
@@ -142,46 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5a2c76187b0cdfc",
+  "active": "56f3397e08dab194",
   "lastOpenFiles": [
+    "Pasted image 20241002193534.png",
+    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/PHP Artisan.md",
+    "Laravel/Install Laravel/Install Laravel.md",
+    "Laravel/Artisan/General Syntax.md",
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md",
+    "00 Meta/Attachments/Pasted image 20241002132542.png",
+    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
+    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Layouts and Templates.md",
+    "00 Meta/Attachments/Pasted image 20241002190821.png",
+    "00 Meta/Attachments/Pasted image 20241002152339.png",
+    "Obsidian/Using Obsidian.md",
+    "00 Meta/Attachments/Pasted image 20241002140036.png",
+    "VSCode/VSCode.md",
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/1. Routes.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Check installation.md",
+    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Running the dev web server.md",
     "00 Meta/Attachments/Pasted image 20241001204234.png",
     "Programming/Git & GitHub/Git & Github.md",
     "00 Meta/Attachments/Pasted image 20241001204745.png",
     "00 Meta/Attachments/Pasted image 20241001204347.png",
-    "VSCode/VSCode.md",
     "Programming/Git & GitHub",
-    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/Routes.md",
     "00 Meta/Attachments/Pasted image 20241001150251.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
     "00 Meta/Attachments/Pasted image 20241001145132.png",
     "00 Meta/Attachments/Pasted image 20240930170435.png",
-    "00 Meta/Attachments/Pasted image 20240930143956.png",
-    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Layouts and Templates.md",
-    "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
     "Laravel/Tinker.md",
-    "Laravel/Artisan/General Syntax.md",
-    "Laravel/Install Laravel/Install Laravel.md",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)",
     "Programming/Udemy",
     "Laravel/XAMPP/Install xampp.md",
     "Laravel/XAMPP/Xdebug.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/24. Send Mail.md",
     "Sqlite/TablePlus.md",
-    "00 Meta/Attachments/Pasted image 20240927155302.png",
-    "00 Meta/Attachments/Pasted image 20240927165608.png",
-    "00 Meta/Attachments/Pasted image 20240927165433.png",
     "Laravel/Using Git with Laravel.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/13. Eager Loading.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/0. The Videos.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/23. Authorisation.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/14. Pagination.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/22. Login & Registration.md",
-    "Linux/Ubuntu/Ubuntu.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/17. Validation.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
-    "Linux/Ubuntu/External Monitors.md",
-    "Node/Installing node.md",
     "Node",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel",
     "Programming/Youtube/Laracasts",

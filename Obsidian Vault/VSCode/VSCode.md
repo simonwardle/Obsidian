@@ -3,6 +3,7 @@
 To open a file - ==ctrl p== and start typing the name.
 To go to a specific line - ==ctrl g== and enter line number. 
 Format entire document ==Shift+Ctrl+i==
+In blade templates to comment out a line ==Ctrl / ==
 
 ## HTML Boilerplate
 To create a very basic HTML5 file enter html:5 and hit tab.

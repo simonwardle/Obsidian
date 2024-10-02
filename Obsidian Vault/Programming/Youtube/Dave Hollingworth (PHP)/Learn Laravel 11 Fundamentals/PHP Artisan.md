@@ -1,17 +1,11 @@
 #laravel 
-
-
 ## List
-
 This command has many options to get a list of the options enter.
-
 ```
 php artisan list
 ```
 
-
 ## Views
-
 To create a view 
 ```
 php artisan make:view hello
@@ -33,14 +27,14 @@ php artisan make:view products.index
 ```
 
 This would give you this..
-![[Pasted image 20240723144143.png]]
+![[Pasted image 20240723144143.png|400]]
 
 ## Migrations
 #mysql
 
 To create a database table you first need to edit the .env to point to the Db server.
 Here is an example:
-![[Pasted image 20240723171815.png]]
+![[Pasted image 20240723171815.png|400]]
 Then to create the first table.
 ```
 php artisan make:migration create_product_table
@@ -63,7 +57,7 @@ php artisan migrate
 
 The first time you run the above command it should detect that the Db Laravel doesn't exist and ask if you want to create it.
 ![[Pasted image 20240723174035.png]]It should then just run the migration creating your table plus some tables required by Laravel.
-![[Pasted image 20240723174222.png]]
+![[Pasted image 20240723174222.png|300]]
 ![[Pasted image 20240723174621.png]]
 
 
@@ -72,7 +66,7 @@ To rollback the most recent migration
 php artisan migrate:rollback
 ```
 
-### Refresh Database
+## Refresh Database
 If you want to start a fresh version of your database dropping all your data then enter this command.  Note be careful it will lose all your data and give you  a blank database with just your tables.
   
 ```
@@ -89,7 +83,7 @@ php artisan make:component layout --view
 ```
 
 The above command creates this.
-![[Pasted image 20240724142934.png]]
+![[Pasted image 20240724142934.png|300]]
 Here is simple example code to place in the layout file.
 ![[Pasted image 20240724143559.png]]
 
