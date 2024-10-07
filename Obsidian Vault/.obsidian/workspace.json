@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/7. Factories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/7. Factories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/7. Factories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md"
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/7. Factories.md"
               }
             }
           }
@@ -148,15 +148,19 @@
   },
   "active": "56f3397e08dab194",
   "lastOpenFiles": [
-    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/4. Database Migration.md",
-    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/5. Models.md",
+    "Pasted image 20241007160911.png",
+    "Pasted image 20241007154020.png",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/6. Seeders.md",
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/7. Factories.md",
+    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
+    "Pasted image 20241007151737.png",
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/4. Database Migration.md",
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/5. Models.md",
     "00 Meta/Attachments/Pasted image 20241006192949.png",
     "00 Meta/Attachments/Pasted image 20241006213412.png",
     "00 Meta/Attachments/Pasted image 20241006212042.png",
-    "Programming/Youtube/Laracasts/30 Days to Learn Laravel/15. Database Seeding.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
-    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/1. Routes.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/19. Routes & Controller Classes.md",
@@ -177,12 +181,9 @@
     "Linux/Ubuntu/External Monitors.md",
     "00 Meta/Attachments/Pasted image 20241002193534.png",
     "VSCode/VSCode.md",
-    "00 Meta/Attachments/Pasted image 20241003214355.png",
-    "00 Meta/Attachments/Pasted image 20241003214247.png",
     "Laravel/Install Laravel/Install Laravel.md",
     "Obsidian/Using Obsidian.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Check installation.md",
-    "Programming/Git & GitHub/Git & Github.md",
     "Programming/Git & GitHub",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)",
     "Programming/Udemy",
