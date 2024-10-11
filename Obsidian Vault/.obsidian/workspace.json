@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3be8edc99608fa",
+        "id": "154139ffcec68e25",
         "type": "tabs",
         "children": [
           {
-            "id": "56f3397e08dab194",
+            "id": "06748f9c108adfcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
+                "file": "00 Meta/Attachments/Pasted image 20241011164130.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
+                "file": "00 Meta/Attachments/Pasted image 20241011164130.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md"
+                "file": "00 Meta/Attachments/Pasted image 20241011164130.png"
               }
             }
           }
@@ -148,9 +144,11 @@
   },
   "active": "a5a2c76187b0cdfc",
   "lastOpenFiles": [
+    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
+    "00 Meta/Attachments/Pasted image 20241011164130.png",
+    "00 Meta/Attachments/Pasted image 20241011164027.png",
     "00 Meta/Attachments/Pasted image 20241010183910.png",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/7. Factories.md",
-    "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
     "00 Meta/Attachments/Pasted image 20241007154020.png",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/4. Database Migration.md",
     "00 Meta/Attachments/Pasted image 20241008171407.png",
@@ -165,9 +163,6 @@
     "Pasted image 20241007151737.png",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/5. Models.md",
-    "00 Meta/Attachments/Pasted image 20241006192949.png",
-    "00 Meta/Attachments/Pasted image 20241006213412.png",
-    "00 Meta/Attachments/Pasted image 20241006212042.png",
     "Programming/Youtube/Laracasts/30 Days to Learn Laravel/16. Forms.md",
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/1. Routes.md",
     "Programming/Youtube/Dave Hollingworth (PHP)/Learn Laravel 11 Fundamentals/Debugging.md",
