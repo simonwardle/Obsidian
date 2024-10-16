@@ -11,8 +11,12 @@
             "id": "06748f9c108adfcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/Attachments/Pasted image 20241011164130.png",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/Attachments/Pasted image 20241011164130.png",
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/Attachments/Pasted image 20241011164130.png"
+                "file": "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5a2c76187b0cdfc",
+  "active": "06748f9c108adfcd",
   "lastOpenFiles": [
     "Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/8. Query Builder.md",
     "00 Meta/Attachments/Pasted image 20241011164130.png",
