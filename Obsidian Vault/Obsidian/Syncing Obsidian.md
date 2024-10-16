@@ -31,4 +31,13 @@ Found workspace.json gets in a knot when trying to use git.  So added to .gitign
 
 Above still not working
 
+Found website - file is in correct place and setup properly just need to do the following.
+
+```
+git add .
+git commit -m "added gitignore"
+git rm --chached .obsidian/workspace.json
+```
+
+Then try again.
 
