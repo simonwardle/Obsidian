@@ -28,7 +28,8 @@ Found workspace.json gets in a knot when trying to use git.  So added to .gitign
 
 ![[Pasted image 20241016170302.png]]
 
-
+That did not work 
+Moved .gitignore into Obsidian Vault folder.
 
 
 
