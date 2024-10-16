@@ -29,6 +29,6 @@ Found workspace.json gets in a knot when trying to use git.  So added to .gitign
 
 ![[Pasted image 20241016171314.png]]
 
-
+Above still not working
 
 
