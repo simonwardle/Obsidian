@@ -16,7 +16,7 @@ code Obsidian
 Enter a message then click Commit.
 ![[Pasted image 20240830194510.png]]
 
-![[Pasted image 20240830194826.png]]
+![[Pasted image 20240830194826.png|450]]
 
 This will push changes to github.
 
