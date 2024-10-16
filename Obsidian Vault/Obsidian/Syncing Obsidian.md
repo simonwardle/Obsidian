@@ -22,7 +22,12 @@ This will push changes to github.
 
 Then on your other laptop open code in the same way and sync the changes.  This will pull your changes to the new device.
 
+## Git ignore
+
 Found workspace.json gets in a knot when trying to use git.  So added to .gitignore like this.
+
+![[Pasted image 20241016170302.png]]
+
 
 
 
