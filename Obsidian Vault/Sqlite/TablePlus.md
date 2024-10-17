@@ -21,5 +21,5 @@ sudo apt install tableplus
 
 To run look for this...
 
-![[Pasted image 20240829195900.png]]
+![[Pasted image 20240829195900.png|200]]
 
