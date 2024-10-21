@@ -41,3 +41,4 @@ git rm --chached .obsidian/workspace.json
 
 Then try again.
 
+This worked.
