@@ -33,7 +33,7 @@ ssh-add ~/.ssh/id_ed25519
 ## Add Key to Account
 
 In github you need to add the public key to you account.
-![[Pasted image 20241001204234.png]]
+![[Pasted image 20241001204234.png|300]]
 
 ![[Pasted image 20241001204347.png]]
 
@@ -53,5 +53,9 @@ git commit -m "Added git instructions"    - This commits all your files locally 
 git push  - This pushes your changes up to Github.
 git pull  - This pull down from Github any new changes into your local repository.
 
-
+A better option to git pull is 
+	git pull --rebase 
+	If this fails with merge conflicts do this 
+	git rebase --abort 
+	Then go back to using git pull and resolve the merge conflicts. 
 
