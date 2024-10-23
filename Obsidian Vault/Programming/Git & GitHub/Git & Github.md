@@ -51,7 +51,7 @@ git clone git@github.com:simonwardle/Obsidian.git  - This will clone from github
 git add .   - This adds any new files into the local repository.
 git commit -m "Added git instructions"    - This commits all your files locally with a message
 git push  - This pushes your changes up to Github.
-git pull  - This pull down from Github any new changes into your local repository.
+git pull  - This pulls down from Github any new changes into your local repository.
 
 A better option to git pull is 
 	git pull --rebase 
