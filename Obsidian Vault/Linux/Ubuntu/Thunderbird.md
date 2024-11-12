@@ -19,4 +19,5 @@ To set up Thunderbird to sync to your Outlook.com account’s email:
           **c.       SSL:** STARTTLS.
           **d.      Authentication:** Normal password.
 
+==d.  Probably should be OAuth2 now.==
 10.   Click **Done.**
