@@ -26,3 +26,11 @@ Create an environment (env2) as a clone of an existing environment (env1):
 ```
 conda create -n env2 --clone path/to/file/env1
 ```
+
+Create an environment with python 3.12 and pygame.
+
+```
+conda create -n myenv python=3.12
+conda activate myenv
+conda install -c conda-forge pygame
+```
