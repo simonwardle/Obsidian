@@ -3,9 +3,11 @@
 To open a file - ==ctrl p== and start typing the name.
 To go to a specific line - ==ctrl g== and enter line number. 
 Format entire document ==Shift+Ctrl+i==
+
 In blade templates to comment out a line ==Ctrl / ==
-To toggle the terminal Ctrl+  the backward ' which is usually next to 1 on the keyboard.
 In most other things ==Ctrl+K, Ctrl+C== works
+
+To toggle the terminal Ctrl+  the backward ' which is usually next to 1 on the keyboard.
 To switch between open files ===Ctrl+Tab===
 
 ## HTML Boilerplate
