@@ -90,3 +90,11 @@ And tell pip to install all of the packages in this file using the `-r` flag:
 python3 -m pip install -r requirements.txt
 ```
 
+
+## ==Create a requirements file
+
+Requirements files are used to hold the result from [pip freeze](https://pip.pypa.io/en/latest/cli/pip_freeze/#pip-freeze) for the purpose of achieving [Repeatable Installs](https://pip.pypa.io/en/latest/topics/repeatable-installs/). In this case, your requirement file contains a pinned version of everything that was installed when `pip freeze` was run.
+
+
+
+python -m pip freeze > requirements.txt
