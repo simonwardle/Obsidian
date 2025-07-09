@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Programming/Python/General/Virtual Environment.md",
+                "file": "Obsidian Vault/Obsidian/Syncing Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Environment"
+              "title": "Syncing Obsidian"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "free",
+                "query": "tag:#epson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,12 +171,12 @@
   "active": "38aae96cec4846e3",
   "lastOpenFiles": [
     "Obsidian Vault/VSCode/VSCode.md",
+    "Obsidian Vault/Linux/Ubuntu/Printer Driver.md",
+    "Obsidian Vault/Linux/Ubuntu/Ubuntu.md",
     "Obsidian Vault/Programming/Python/General/Virtual Environment.md",
     "Obsidian Vault/Obsidian/Syncing Obsidian.md",
-    "Obsidian Vault/Linux/Ubuntu/Ubuntu.md",
     "Obsidian Vault/Linux/Ubuntu/Mac Keyboard.md",
     "Obsidian Vault/Linux/Ubuntu/Zen browser.md",
-    "Obsidian Vault/Linux/Ubuntu/Printer Driver.md",
     "Obsidian Vault/Programming/Git & GitHub/Git & Github.md",
     "Obsidian Vault/Laravel/Using Git with Laravel.md",
     "Obsidian Vault/Programming/Git & GitHub/Install Git For Linux.md",
