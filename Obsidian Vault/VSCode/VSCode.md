@@ -20,3 +20,5 @@ To edit in multiple positions all at the same time press Ctrl and then click the
 
 If you want to alter every occurrence of a word, just select it and then hit ==Ctrl+Shift+L== and it will create multiple cursors for you on that word.
 
+
+

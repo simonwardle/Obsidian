@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d907951b5ea68e76",
+        "id": "0a6ba02bab38f812",
         "type": "tabs",
         "children": [
           {
-            "id": "38aae96cec4846e3",
+            "id": "ac69389b8bcbb984",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#epson",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,36 +168,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38aae96cec4846e3",
+  "active": "ac69389b8bcbb984",
   "lastOpenFiles": [
-    "Obsidian Vault/VSCode/VSCode.md",
-    "Obsidian Vault/Linux/Ubuntu/Printer Driver.md",
+    "Obsidian Vault/Programming/Python/SQLite/SQLite Command-Line Tool Tutorial.md",
     "Obsidian Vault/Linux/Ubuntu/Ubuntu.md",
-    "Obsidian Vault/Programming/Python/General/Virtual Environment.md",
-    "Obsidian Vault/Obsidian/Syncing Obsidian.md",
+    "Obsidian Vault/Programming/Python/SQLite",
     "Obsidian Vault/Linux/Ubuntu/Mac Keyboard.md",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250716215620.png",
+    "Obsidian Vault/Linux/Ubuntu/Login scripts.md",
+    "Obsidian Vault/Linux/Ubuntu/External Monitors.md",
+    "Obsidian Vault/VSCode/VSCode.md",
     "Obsidian Vault/Linux/Ubuntu/Zen browser.md",
+    "Obsidian Vault/Programming/Udemy/Django Complete Course/2. Basics.md",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715202147.png",
+    "Obsidian Vault/Programming/Udemy/Django Complete Course/1. Install & Setup.md",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250714205230.png",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715194353.png",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715193929.png",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715193457.png",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715192426.png",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715185626.png",
+    "Obsidian Vault/Programming/Python/General/Virtual Environment.md",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250714213322.png",
+    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250714205918.png",
+    "Obsidian Vault/Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/1. Routes.md",
+    "Obsidian Vault/Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/4. Database Migration.md",
+    "Obsidian Vault/Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/3. Controllers.md",
+    "Obsidian Vault/Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md",
+    "Obsidian Vault/Programming/Udemy/Django Complete Course",
+    "Obsidian Vault/Programming/Python/Anaconda/Anaconda Usage.md",
+    "Obsidian Vault/Programming/Python/Anaconda/Anaconda Installation.md",
+    "Obsidian Vault/Obsidian/Syncing Obsidian.md",
+    "Obsidian Vault/Linux/Ubuntu/Printer Driver.md",
     "Obsidian Vault/Programming/Git & GitHub/Git & Github.md",
     "Obsidian Vault/Laravel/Using Git with Laravel.md",
     "Obsidian Vault/Programming/Git & GitHub/Install Git For Linux.md",
     "Obsidian Vault/Programming/Python/ReportLab/Setup & Install.md",
     "Obsidian Vault/Linux/Ubuntu/Thunderbird.md",
-    "Obsidian Vault/Linux/Ubuntu/Login scripts.md",
-    "Obsidian Vault/Linux/Ubuntu/External Monitors.md",
     "Obsidian Vault/Programming/Python/General/Pygame.md",
     "Obsidian Vault/Programming/Python/ReportLab",
-    "Obsidian Vault/Programming/Python/Anaconda/Anaconda Usage.md",
-    "Obsidian Vault/Programming/Python/Anaconda/Anaconda Installation.md",
-    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250614201252.png",
-    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250614200954.png",
-    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250614193001.png",
-    "Obsidian Vault/00 Meta/Attachments/Pasted image 20250614192812.png",
     "Obsidian Vault/Sqlite/TablePlus.md",
     "Obsidian Vault/Programming/Python/General",
     "Obsidian Vault/Programming/Python",
-    "Obsidian Vault/Laravel/XAMPP/Install xampp.md",
-    "Obsidian Vault/Obsidian/Using Obsidian.md",
-    "Obsidian Vault/Laravel/Install Laravel/Install Laravel.md",
-    "Obsidian Vault/Laravel/Artisan/General Syntax.md"
+    "Obsidian Vault/Laravel/XAMPP/Install xampp.md"
   ]
 }
