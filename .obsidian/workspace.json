@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Obsidian/Syncing Obsidian.md",
+                "file": "Obsidian Vault/SQLite/SQLite Command-Line Tool Tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syncing Obsidian"
+              "title": "SQLite Command-Line Tool Tutorial"
             }
           }
         ]
@@ -170,7 +170,9 @@
   },
   "active": "ac69389b8bcbb984",
   "lastOpenFiles": [
-    "Obsidian Vault/Programming/Python/SQLite/SQLite Command-Line Tool Tutorial.md",
+    "Obsidian Vault/SQLite/TablePlus.md",
+    "Obsidian Vault/SQLite/SQLite Command-Line Tool Tutorial.md",
+    "Obsidian Vault/Obsidian/Syncing Obsidian.md",
     "Obsidian Vault/Linux/Ubuntu/Ubuntu.md",
     "Obsidian Vault/Programming/Python/SQLite",
     "Obsidian Vault/Linux/Ubuntu/Mac Keyboard.md",
@@ -198,7 +200,6 @@
     "Obsidian Vault/Programming/Udemy/Django Complete Course",
     "Obsidian Vault/Programming/Python/Anaconda/Anaconda Usage.md",
     "Obsidian Vault/Programming/Python/Anaconda/Anaconda Installation.md",
-    "Obsidian Vault/Obsidian/Syncing Obsidian.md",
     "Obsidian Vault/Linux/Ubuntu/Printer Driver.md",
     "Obsidian Vault/Programming/Git & GitHub/Git & Github.md",
     "Obsidian Vault/Laravel/Using Git with Laravel.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/Linux/Ubuntu/Thunderbird.md",
     "Obsidian Vault/Programming/Python/General/Pygame.md",
     "Obsidian Vault/Programming/Python/ReportLab",
-    "Obsidian Vault/Sqlite/TablePlus.md",
     "Obsidian Vault/Programming/Python/General",
     "Obsidian Vault/Programming/Python",
     "Obsidian Vault/Laravel/XAMPP/Install xampp.md"
