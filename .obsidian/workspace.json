@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Linux/Ubuntu/Mac Keyboard.md",
+                "file": "Obsidian Vault/Obsidian/Syncing Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mac Keyboard"
+              "title": "Syncing Obsidian"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "warp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,25 +171,29 @@
   },
   "active": "2c868bfc8a9184ff",
   "lastOpenFiles": [
+    "Obsidian Vault/VSCode/VSCode.md",
+    "Obsidian Vault/Programming/Python/Django/Django Workflow - Adding a page..md",
+    "Obsidian Vault/Laravel/XAMPP/Uninstall xampp.md",
     "Obsidian Vault/Programming/Python/Django/Django Setup.md",
+    "Obsidian Vault/Programming/Udemy/Django Complete Course/1. Install & Setup.md",
+    "Obsidian Vault/Programming/Udemy/Django Complete Course/2. Basics.md",
+    "Obsidian Vault/Programming/Python/ReportLab/Setup & Install.md",
+    "Obsidian Vault/Programming/Git & GitHub/Git & Github.md",
+    "Obsidian Vault/Node/Installing NVM.md",
+    "Obsidian Vault/Linux/Ubuntu/Mac Keyboard.md",
     "Obsidian Vault/Programming/Python/Anaconda/Anaconda Usage.md",
     "Obsidian Vault/Programming/Python/Anaconda/Anaconda Installation.md",
     "Obsidian Vault/Obsidian/Syncing Obsidian.md",
     "Obsidian Vault/Programming/Python/Django",
-    "Obsidian Vault/Programming/Udemy/Django Complete Course/1. Install & Setup.md",
-    "Obsidian Vault/Programming/Python/ReportLab/Setup & Install.md",
     "Obsidian Vault/Programming/Python/General/Virtual Environment.md",
     "Obsidian Vault/SQLite/SQLite Command-Line Tool Tutorial.md",
-    "Obsidian Vault/VSCode/VSCode.md",
     "Obsidian Vault/SQLite/TablePlus.md",
     "Obsidian Vault/Linux/Ubuntu/Ubuntu.md",
     "Obsidian Vault/Programming/Python/SQLite",
-    "Obsidian Vault/Linux/Ubuntu/Mac Keyboard.md",
     "Obsidian Vault/00 Meta/Attachments/Pasted image 20250716215620.png",
     "Obsidian Vault/Linux/Ubuntu/Login scripts.md",
     "Obsidian Vault/Linux/Ubuntu/External Monitors.md",
     "Obsidian Vault/Linux/Ubuntu/Zen browser.md",
-    "Obsidian Vault/Programming/Udemy/Django Complete Course/2. Basics.md",
     "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715202147.png",
     "Obsidian Vault/00 Meta/Attachments/Pasted image 20250714205230.png",
     "Obsidian Vault/00 Meta/Attachments/Pasted image 20250715194353.png",
@@ -204,11 +209,7 @@
     "Obsidian Vault/Programming/Udemy/Laravel 11 - From Basic to Advance (2024)/2. Blade Templates.md",
     "Obsidian Vault/Programming/Udemy/Django Complete Course",
     "Obsidian Vault/Linux/Ubuntu/Printer Driver.md",
-    "Obsidian Vault/Programming/Git & GitHub/Git & Github.md",
     "Obsidian Vault/Laravel/Using Git with Laravel.md",
-    "Obsidian Vault/Programming/Git & GitHub/Install Git For Linux.md",
-    "Obsidian Vault/Linux/Ubuntu/Thunderbird.md",
-    "Obsidian Vault/Programming/Python/General/Pygame.md",
     "Obsidian Vault/Programming/Python/ReportLab",
     "Obsidian Vault/Programming/Python/General",
     "Obsidian Vault/Programming/Python"
