@@ -8,7 +8,7 @@ Make any edits in obsidian then when I want to sync it I use git with vscode.
 
 Via terminal 
 
-```
+```bash
 cd Documents
 code Obsidian
 ```
